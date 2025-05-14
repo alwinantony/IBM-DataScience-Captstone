@@ -1,1 +1,2 @@
 # IBM-DataScience-Captstone
+Build a binary classifier model and train it with previous SpaceX's Falcon 9 rocket launches, data gathered from SpaceX REST API and Wikipedia. Use the model to predict whether future rocket launches will land successfully or not. As the primary reason why SpaceX Falcon9 rockets are cheap is due to it's Stage 1 reusability, this model can help us predict whether the rocket will land and if we can reuse the stage 1 of the rocket.
